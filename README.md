@@ -1,7 +1,8 @@
 # HELLO
 im terry or **[terryiscool160](https://terryiscool160.xyz)**, a mainly roblox-based developer who does stuff from game dev to apis
 
-im interested in a variety of things and tend to contribute to my [own gittea](https://git.terryiscool160.xyz), but microsoft can be ok too
+im interested in a variety of things and tend to contribute to my [own gittea](https://git.terryiscool160.xyz), but microsoft can be ok too.
+you can find me @eggjenniferbenedict on discord
 
 rust >>
 
