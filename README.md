@@ -11,7 +11,7 @@ projects i have worked/am working on roblox include:
 - [NECo](https://www.roblox.com/groups/6380413/Nuclear-Engineering-Co#!/about)
 - [BHNPS](https://www.roblox.com/games/3657848528/Broken-Hill-Nuclear-Power-Station)
 
-anything else coding-wise is most likely in my repositories but not a lot of my coding is public
+anything else coding-wise is most likely in my repositories but keep in mind not a lot of my coding is public
 
 rust >>
 
